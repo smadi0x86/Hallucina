@@ -1,5 +1,4 @@
-Hallucina
-===========
+# Hallucina
 
 **Hallucina** is a powerful obfuscation tool designed to confuse and hallucinate LLM clients that are used with custom MCP servers for disassemblers such as Ghidra and IDA PRO.
 
